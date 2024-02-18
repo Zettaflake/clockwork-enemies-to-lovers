@@ -1,0 +1,28 @@
+** Clock-Heart **
+
+Arrow Keys - Move
+Space - Jump
+E - Interact
+R - Retrieve Wind-Up Key
+
+CREDITS: 
+
+	Brendan:
+		* Concept Artist
+		* Programmer
+		* Writer
+	
+	Bryant:
+		* Director
+		* Writer
+		* Game Designer
+
+	Elisa:
+		* Emotional Support
+
+	Roby:
+		* Pixel Artist
+		* Sound Designer
+		* Music Curator
+			* "The World Going By" By Shane Mesa from MOTHER 4.
+			* Check it out, I do pixel art for it! - Roby
